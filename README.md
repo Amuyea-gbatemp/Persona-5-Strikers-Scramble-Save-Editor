@@ -16,3 +16,6 @@ Features
 * Cash Mats.
 * Skill Cards
 * Persona
+
+Run the script
+```python persona5strikers_1_0_0.py```
