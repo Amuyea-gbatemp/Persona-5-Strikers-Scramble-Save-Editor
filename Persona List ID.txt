@@ -1,0 +1,77 @@
+0	Arsene
+1	Capain Kidd
+2	Zorro
+3	Carman
+4	Goemon
+5	Johanna
+6	Milady
+7	Necronomicon
+8	Pandora
+9	Valjean
+10	Pithos
+11	Jack-O-Lantern
+12	Pixie
+13	Bicorn
+14	Silky
+15	Succubus
+16	Mokoi
+17	Andras
+18	Archangel
+19	Berith
+20	Slime
+21	High Pixie
+22	Eligor
+23	Orthrus
+24	Lamia
+25	Pisaca
+26	Jack Frost
+27	Setanta
+28	Principality
+29	Lilim
+30	Mothman
+31	Kaiwan
+32	Mithras
+33	Shiisaa
+34	Black Ooze
+35	Arahabaki
+36	Legion
+37	Hecatoncheires
+38	Neko Shogun
+39	Kikuri-Hime
+40	Okuninushi
+41	Koppa Tengu
+42	Kurama Tengu
+43	Valkyrie
+44	Fortuna
+45	Naga
+46	Norn
+47	Genesha
+48	Raja Naga
+49	Sarasvati
+50	Thor
+51	Bugs
+52	Lilith
+53	Nebiros
+54	Mothman
+55	Abaddon
+56	Yatagarasu
+57	Forneus
+58	Dominion
+59	Kali
+60	Metatron
+61	Seth
+62	Cerberus
+63	King Frost
+64	Black Frost
+65	Siegfried
+66	Mara
+67	Hua Po
+68	Ame-no-Uzume
+69	Mitra
+70	Unicorn
+71	Queen Mab
+72	Trumpeter
+73	Cu Chulainn
+74	Alice
+75	Yoshitsune
+76	Lucifer
