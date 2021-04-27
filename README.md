@@ -17,6 +17,7 @@ Features
 * Cash Mats.
 * Skill Cards
 * Persona
+* Character Level
 
 Run the script
 ```python p5(strikers/scramble)_x_x_x.py```
